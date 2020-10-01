@@ -241,5 +241,5 @@ wonder_woman.txt
 data/superheros/original:
 barry_allen.txt
 bruce_wayne.txt
-brunce_banner.txt
+bruce_banner.txt
 tony_stark.txt
